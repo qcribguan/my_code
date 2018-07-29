@@ -1,6 +1,9 @@
 本程序参考网页：
 https://blog.csdn.net/yaoyefengchen/article/details/79427475
 
+运行环境：
+python37_32bit + win7测试成功
+
 功能：
 登录微信，分析好友男女比例，好友地理位置分布，以及签名信息；同时以可视化方式展示出来。
 
